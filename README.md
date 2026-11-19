@@ -10,7 +10,10 @@
 </div>
 
 <div align="center">
-  <img src="./docs/source/resources/01_02_DX-STREAM_Architecture_Overview.png" width="700" alt="DX-STREAM architecture">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./img/01_02_DX-STREAM_Architecture_Overview-dark.png">
+    <img src="./img/01_02_DX-STREAM_Architecture_Overview.png" width="700" alt="DX-STREAM architecture">
+  </picture>
 </div>
 
 DX-STREAM is the GStreamer plugin of the DXNN® SDK. It runs `.dxnn` models from
