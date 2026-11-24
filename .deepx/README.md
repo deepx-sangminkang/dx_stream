@@ -210,4 +210,4 @@ patterns or discovering pitfalls. See `memory/MEMORY.md` for the memory index.
 
 ## CI Drift Gate
 
-This repo is checked by the `subrepo-gate` CI job (`.github/workflows/dx-agent-dev-subrepo-gate-{ghes,cloud}.yml`). What it runs, how to reproduce it locally and how to fix a red gate: [`docs/ci-subrepo-gate.md`](docs/ci-subrepo-gate.md).
+This repo is checked by the `subrepo-gate` CI job (`.github/workflows/dx-agent-dev-subrepo-gate-{ghes,cloud}.yml`). What it runs, how to reproduce it locally and how to fix a red gate: `docs/ci-subrepo-gate.md` (internal repository only).
